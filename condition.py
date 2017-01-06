@@ -1,6 +1,6 @@
 number = 23
 running = True
-
+#While loop
 while running:
     guess = int(raw_input('Enter an interger:'))
     if guess==number:
