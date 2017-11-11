@@ -1,0 +1,10 @@
+#numbers = ["One","Two","Three","Four"]
+#print numbers[0]
+#print numbers[1]
+#print numbers[2]
+#print numbers[3]
+numbers = [["zero","one"],["Two","Three"],["Four","Five"]]
+print numbers[0]
+print numbers[0][0]
+print numbers[1][1]
+print len(numbers)
